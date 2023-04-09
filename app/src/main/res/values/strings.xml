@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SubmissinStoryApp</string>
+    <string name="imageofuser">ImageOfUser</string>
 </resources>
